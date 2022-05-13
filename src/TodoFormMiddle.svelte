@@ -12,4 +12,4 @@
   // }
 </script>
 
-<TodoForm on:todoAdded />
+<TodoForm />
